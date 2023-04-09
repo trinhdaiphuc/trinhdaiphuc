@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/trinhdaiphuc/GRPC-Chat/pull/18) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
-2. 🎉 Merged PR [#1](https://github.com/trinhdaiphuc/trinhdaiphuc/pull/1) in [trinhdaiphuc/trinhdaiphuc](https://github.com/trinhdaiphuc/trinhdaiphuc)
-3. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/trinhdaiphuc/pull/1) in [trinhdaiphuc/trinhdaiphuc](https://github.com/trinhdaiphuc/trinhdaiphuc)
-4. 🎉 Merged PR [#17](https://github.com/trinhdaiphuc/GRPC-Chat/pull/17) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
-5. 🎉 Merged PR [#47](https://github.com/trinhdaiphuc/Source-code-marking/pull/47) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
+1. 🎉 Merged PR [#28](https://github.com/trinhdaiphuc/Project-registration/pull/28) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
+2. 🎉 Merged PR [#18](https://github.com/trinhdaiphuc/GRPC-Chat/pull/18) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
+3. 🎉 Merged PR [#1](https://github.com/trinhdaiphuc/trinhdaiphuc/pull/1) in [trinhdaiphuc/trinhdaiphuc](https://github.com/trinhdaiphuc/trinhdaiphuc)
+4. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/trinhdaiphuc/pull/1) in [trinhdaiphuc/trinhdaiphuc](https://github.com/trinhdaiphuc/trinhdaiphuc)
+5. 🎉 Merged PR [#17](https://github.com/trinhdaiphuc/GRPC-Chat/pull/17) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
 <!--END_SECTION:activity-->
