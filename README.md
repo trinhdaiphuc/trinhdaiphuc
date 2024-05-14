@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/trinhdaiphuc/go-kit/pull/1) in [trinhdaiphuc/go-kit](https://github.com/trinhdaiphuc/go-kit)
-2. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/go-kit/pull/1) in [trinhdaiphuc/go-kit](https://github.com/trinhdaiphuc/go-kit)
-3. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/social-network/pull/12) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
-4. 💪 Opened PR [#11](https://github.com/trinhdaiphuc/snipet-code/pull/11) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
-5. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/egress/pull/12) in [trinhdaiphuc/egress](https://github.com/trinhdaiphuc/egress)
+1. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/social-network/pull/13) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
+2. 🎉 Merged PR [#1](https://github.com/trinhdaiphuc/go-kit/pull/1) in [trinhdaiphuc/go-kit](https://github.com/trinhdaiphuc/go-kit)
+3. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/go-kit/pull/1) in [trinhdaiphuc/go-kit](https://github.com/trinhdaiphuc/go-kit)
+4. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/social-network/pull/12) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
+5. 💪 Opened PR [#11](https://github.com/trinhdaiphuc/snipet-code/pull/11) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
 <!--END_SECTION:activity-->
