@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/trinhdaiphuc/grpc-xds-example/pull/6) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
-2. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/snipet-code/pull/12) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
-3. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/egress/pull/13) in [trinhdaiphuc/egress](https://github.com/trinhdaiphuc/egress)
-4. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/social-network/pull/13) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
-5. 🎉 Merged PR [#1](https://github.com/trinhdaiphuc/go-kit/pull/1) in [trinhdaiphuc/go-kit](https://github.com/trinhdaiphuc/go-kit)
+1. 🎉 Merged PR [#7](https://github.com/trinhdaiphuc/notes/pull/7) in [trinhdaiphuc/notes](https://github.com/trinhdaiphuc/notes)
+2. 💪 Opened PR [#7](https://github.com/trinhdaiphuc/notes/pull/7) in [trinhdaiphuc/notes](https://github.com/trinhdaiphuc/notes)
+3. 🎉 Merged PR [#3](https://github.com/trinhdaiphuc/notes/pull/3) in [trinhdaiphuc/notes](https://github.com/trinhdaiphuc/notes)
+4. 💪 Opened PR [#6](https://github.com/trinhdaiphuc/grpc-xds-example/pull/6) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+5. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/snipet-code/pull/12) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
 <!--END_SECTION:activity-->
