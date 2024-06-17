@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/trinhdaiphuc/webrtc-media-server/pull/7) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
-2. 💪 Opened PR [#55](https://github.com/trinhdaiphuc/Project-registration/pull/55) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-3. 💪 Opened PR [#54](https://github.com/trinhdaiphuc/Project-registration/pull/54) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-4. 🎉 Merged PR [#53](https://github.com/trinhdaiphuc/Project-registration/pull/53) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-5. 🎉 Merged PR [#7](https://github.com/trinhdaiphuc/grpc-xds-example/pull/7) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+1. 💪 Opened PR [#8](https://github.com/trinhdaiphuc/webrtc-media-server/pull/8) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+2. 💪 Opened PR [#7](https://github.com/trinhdaiphuc/webrtc-media-server/pull/7) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+3. 💪 Opened PR [#55](https://github.com/trinhdaiphuc/Project-registration/pull/55) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
+4. 💪 Opened PR [#54](https://github.com/trinhdaiphuc/Project-registration/pull/54) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
+5. 🎉 Merged PR [#53](https://github.com/trinhdaiphuc/Project-registration/pull/53) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
 <!--END_SECTION:activity-->
