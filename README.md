@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/public-apis/pull/1) in [trinhdaiphuc/public-apis](https://github.com/trinhdaiphuc/public-apis)
-2. 💪 Opened PR [#8](https://github.com/trinhdaiphuc/tinder-clone-backend/pull/8) in [trinhdaiphuc/tinder-clone-backend](https://github.com/trinhdaiphuc/tinder-clone-backend)
-3. 💪 Opened PR [#58](https://github.com/trinhdaiphuc/Project-registration/pull/58) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-4. 💪 Opened PR [#6](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/6) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
-5. 💪 Opened PR [#10](https://github.com/trinhdaiphuc/grpc-xds-example/pull/10) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+1. 💪 Opened PR [#6](https://github.com/trinhdaiphuc/Comnhalam.com/pull/6) in [trinhdaiphuc/Comnhalam.com](https://github.com/trinhdaiphuc/Comnhalam.com)
+2. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/public-apis/pull/1) in [trinhdaiphuc/public-apis](https://github.com/trinhdaiphuc/public-apis)
+3. 💪 Opened PR [#8](https://github.com/trinhdaiphuc/tinder-clone-backend/pull/8) in [trinhdaiphuc/tinder-clone-backend](https://github.com/trinhdaiphuc/tinder-clone-backend)
+4. 💪 Opened PR [#58](https://github.com/trinhdaiphuc/Project-registration/pull/58) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
+5. 💪 Opened PR [#6](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/6) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
 <!--END_SECTION:activity-->
