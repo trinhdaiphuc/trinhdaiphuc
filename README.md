@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/trinhdaiphuc/env_config/pull/1) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
-2. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/env_config/pull/1) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
-3. 💪 Opened PR [#6](https://github.com/trinhdaiphuc/Comnhalam.com/pull/6) in [trinhdaiphuc/Comnhalam.com](https://github.com/trinhdaiphuc/Comnhalam.com)
-4. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/public-apis/pull/1) in [trinhdaiphuc/public-apis](https://github.com/trinhdaiphuc/public-apis)
-5. 💪 Opened PR [#8](https://github.com/trinhdaiphuc/tinder-clone-backend/pull/8) in [trinhdaiphuc/tinder-clone-backend](https://github.com/trinhdaiphuc/tinder-clone-backend)
+1. 🚀 Published release [Enhanced configurability with Delimiter tag support](https://github.com/trinhdaiphuc/env_config/releases/tag/v0.2.0) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
+2. 🎉 Merged PR [#2](https://github.com/trinhdaiphuc/env_config/pull/2) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
+3. 💪 Opened PR [#2](https://github.com/trinhdaiphuc/env_config/pull/2) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
+4. ❌ Closed PR [#1](https://github.com/trinhdaiphuc/env_config/pull/1) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
+5. 💪 Opened PR [#1](https://github.com/trinhdaiphuc/env_config/pull/1) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
 <!--END_SECTION:activity-->
