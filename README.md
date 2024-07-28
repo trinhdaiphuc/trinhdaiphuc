@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/trinhdaiphuc/grpc-xds-example/pull/11) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
-2. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/webrtc-media-server/pull/12) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
-3. 💪 Opened PR [#7](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/7) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
-4. 💪 Opened PR [#60](https://github.com/trinhdaiphuc/Source-code-marking/pull/60) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
-5. 🚀 Published release [Enhanced configurability with Delimiter tag support](https://github.com/trinhdaiphuc/env_config/releases/tag/v0.2.0) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
+1. 💪 Opened PR [#7](https://github.com/trinhdaiphuc/Comnhalam.com/pull/7) in [trinhdaiphuc/Comnhalam.com](https://github.com/trinhdaiphuc/Comnhalam.com)
+2. 💪 Opened PR [#11](https://github.com/trinhdaiphuc/grpc-xds-example/pull/11) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+3. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/webrtc-media-server/pull/12) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+4. 💪 Opened PR [#7](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/7) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+5. 💪 Opened PR [#60](https://github.com/trinhdaiphuc/Source-code-marking/pull/60) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
 <!--END_SECTION:activity-->
