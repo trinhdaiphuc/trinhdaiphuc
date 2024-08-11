@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/grpc-xds-example/pull/13) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
-2. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/grpc-xds-example/pull/12) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
-3. 💪 Opened PR [#61](https://github.com/trinhdaiphuc/Source-code-marking/pull/61) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
-4. 💪 Opened PR [#8](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/8) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
-5. 💪 Opened PR [#7](https://github.com/trinhdaiphuc/Comnhalam.com/pull/7) in [trinhdaiphuc/Comnhalam.com](https://github.com/trinhdaiphuc/Comnhalam.com)
+1. 🎉 Merged PR [#8](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/8) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+2. 🎉 Merged PR [#13](https://github.com/trinhdaiphuc/grpc-xds-example/pull/13) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+3. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/grpc-xds-example/pull/13) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+4. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/grpc-xds-example/pull/12) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+5. 💪 Opened PR [#61](https://github.com/trinhdaiphuc/Source-code-marking/pull/61) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
 <!--END_SECTION:activity-->
