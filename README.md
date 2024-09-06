@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/trinhdaiphuc/webrtc-media-server/pull/14) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
-2. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/webrtc-media-server/pull/13) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
-3. 💪 Opened PR [#62](https://github.com/trinhdaiphuc/Source-code-marking/pull/62) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
-4. 💪 Opened PR [#8](https://github.com/beautifulvoice/livekit-meet/pull/8) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
-5. 🎉 Merged PR [#8](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/8) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+1. 💪 Opened PR [#9](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/9) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+2. 💪 Opened PR [#14](https://github.com/trinhdaiphuc/webrtc-media-server/pull/14) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+3. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/webrtc-media-server/pull/13) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+4. 💪 Opened PR [#62](https://github.com/trinhdaiphuc/Source-code-marking/pull/62) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
+5. 💪 Opened PR [#8](https://github.com/beautifulvoice/livekit-meet/pull/8) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
 <!--END_SECTION:activity-->
