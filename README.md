@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/beautifulvoice/livekit-meet/pull/12) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
-2. 💪 Opened PR [#19](https://github.com/trinhdaiphuc/webrtc-media-server/pull/19) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
-3. 💪 Opened PR [#64](https://github.com/trinhdaiphuc/Source-code-marking/pull/64) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
-4. 💪 Opened PR [#11](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/11) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
-5. 💪 Opened PR [#18](https://github.com/trinhdaiphuc/webrtc-media-server/pull/18) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+1. 💪 Opened PR [#64](https://github.com/trinhdaiphuc/Project-registration/pull/64) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
+2. 💪 Opened PR [#12](https://github.com/beautifulvoice/livekit-meet/pull/12) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+3. 💪 Opened PR [#19](https://github.com/trinhdaiphuc/webrtc-media-server/pull/19) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+4. 💪 Opened PR [#64](https://github.com/trinhdaiphuc/Source-code-marking/pull/64) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
+5. 💪 Opened PR [#11](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/11) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
 <!--END_SECTION:activity-->
