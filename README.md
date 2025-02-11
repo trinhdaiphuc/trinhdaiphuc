@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/tinder-clone-backend/pull/12) in [trinhdaiphuc/tinder-clone-backend](https://github.com/trinhdaiphuc/tinder-clone-backend)
-2. 💪 Opened PR [#66](https://github.com/trinhdaiphuc/Source-code-marking/pull/66) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
-3. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/13) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
-4. 🎉 Merged PR [#20](https://github.com/trinhdaiphuc/webrtc-media-server/pull/20) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
+1. 💪 Opened PR [#14](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/14) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+2. 💪 Opened PR [#12](https://github.com/trinhdaiphuc/tinder-clone-backend/pull/12) in [trinhdaiphuc/tinder-clone-backend](https://github.com/trinhdaiphuc/tinder-clone-backend)
+3. 💪 Opened PR [#66](https://github.com/trinhdaiphuc/Source-code-marking/pull/66) in [trinhdaiphuc/Source-code-marking](https://github.com/trinhdaiphuc/Source-code-marking)
+4. 💪 Opened PR [#13](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/13) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
 5. 💪 Opened PR [#66](https://github.com/trinhdaiphuc/Project-registration/pull/66) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
 <!--END_SECTION:activity-->
