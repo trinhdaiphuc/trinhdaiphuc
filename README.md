@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/trinhdaiphuc/social-network/pull/17) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
-2. 💪 Opened PR [#39](https://github.com/trinhdaiphuc/GRPC-Chat/pull/39) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
-3. 💪 Opened PR [#14](https://github.com/beautifulvoice/livekit-meet/pull/14) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
-4. 💪 Opened PR [#67](https://github.com/trinhdaiphuc/Project-registration/pull/67) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-5. 💪 Opened PR [#15](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/15) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+1. 💪 Opened PR [#15](https://github.com/trinhdaiphuc/snipet-code/pull/15) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
+2. 💪 Opened PR [#68](https://github.com/trinhdaiphuc/Project-registration/pull/68) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
+3. 💪 Opened PR [#17](https://github.com/trinhdaiphuc/social-network/pull/17) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
+4. 💪 Opened PR [#39](https://github.com/trinhdaiphuc/GRPC-Chat/pull/39) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
+5. 💪 Opened PR [#14](https://github.com/beautifulvoice/livekit-meet/pull/14) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
 <!--END_SECTION:activity-->
