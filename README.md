@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/beautifulvoice/livekit-meet/pull/15) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+1. 💪 Opened PR [#40](https://github.com/trinhdaiphuc/GRPC-Chat/pull/40) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
 2. 💪 Opened PR [#69](https://github.com/trinhdaiphuc/Project-registration/pull/69) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
 3. 💪 Opened PR [#15](https://github.com/trinhdaiphuc/snipet-code/pull/15) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
 4. 💪 Opened PR [#68](https://github.com/trinhdaiphuc/Project-registration/pull/68) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
