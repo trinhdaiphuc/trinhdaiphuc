@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/trinhdaiphuc/social-network/pull/18) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
-2. 💪 Opened PR [#40](https://github.com/trinhdaiphuc/GRPC-Chat/pull/40) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
-3. 💪 Opened PR [#15](https://github.com/trinhdaiphuc/snipet-code/pull/15) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
+1. 💪 Opened PR [#16](https://github.com/trinhdaiphuc/snipet-code/pull/16) in [trinhdaiphuc/snipet-code](https://github.com/trinhdaiphuc/snipet-code)
+2. 💪 Opened PR [#18](https://github.com/trinhdaiphuc/social-network/pull/18) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
+3. 💪 Opened PR [#40](https://github.com/trinhdaiphuc/GRPC-Chat/pull/40) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
 4. 💪 Opened PR [#68](https://github.com/trinhdaiphuc/Project-registration/pull/68) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
 5. 💪 Opened PR [#17](https://github.com/trinhdaiphuc/social-network/pull/17) in [trinhdaiphuc/social-network](https://github.com/trinhdaiphuc/social-network)
 <!--END_SECTION:activity-->
