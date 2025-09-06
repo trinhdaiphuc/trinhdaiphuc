@@ -16,8 +16,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/trinhdaiphuc/Project-registration/pull/72#issuecomment-3101601710) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-2. 💪 Opened PR [#72](https://github.com/trinhdaiphuc/Project-registration/pull/72) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
+1. 🗣 Commented on [#17](https://github.com/beautifulvoice/livekit-meet/pull/17#issuecomment-3257512421) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+2. 💪 Opened PR [#17](https://github.com/beautifulvoice/livekit-meet/pull/17) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
 3. 🗣 Commented on [#24](https://github.com/trinhdaiphuc/webrtc-media-server/pull/24#issuecomment-3095739931) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
 4. 💪 Opened PR [#24](https://github.com/trinhdaiphuc/webrtc-media-server/pull/24) in [trinhdaiphuc/webrtc-media-server](https://github.com/trinhdaiphuc/webrtc-media-server)
 5. 🗣 Commented on [#18](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/18#issuecomment-3095692153) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
