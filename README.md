@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/trinhdaiphuc/grpc-xds-example/pull/16#issuecomment-3364803973) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
-2. 💪 Opened PR [#16](https://github.com/trinhdaiphuc/grpc-xds-example/pull/16) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
-3. 🗣 Commented on [#74](https://github.com/trinhdaiphuc/Project-registration/pull/74#issuecomment-3296329325) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-4. 💪 Opened PR [#74](https://github.com/trinhdaiphuc/Project-registration/pull/74) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
-5. 🗣 Commented on [#18](https://github.com/beautifulvoice/livekit-meet/pull/18#issuecomment-3283841324) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+1. 🗣 Commented on [#19](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/19#issuecomment-3370432047) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+2. 💪 Opened PR [#19](https://github.com/trinhdaiphuc/terraform-provider-cmdb/pull/19) in [trinhdaiphuc/terraform-provider-cmdb](https://github.com/trinhdaiphuc/terraform-provider-cmdb)
+3. 🗣 Commented on [#16](https://github.com/trinhdaiphuc/grpc-xds-example/pull/16#issuecomment-3364803973) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+4. 💪 Opened PR [#16](https://github.com/trinhdaiphuc/grpc-xds-example/pull/16) in [trinhdaiphuc/grpc-xds-example](https://github.com/trinhdaiphuc/grpc-xds-example)
+5. 🗣 Commented on [#74](https://github.com/trinhdaiphuc/Project-registration/pull/74#issuecomment-3296329325) in [trinhdaiphuc/Project-registration](https://github.com/trinhdaiphuc/Project-registration)
 <!--END_SECTION:activity-->
