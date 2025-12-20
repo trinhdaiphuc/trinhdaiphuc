@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/beautifulvoice/livekit-meet/pull/19#issuecomment-3666094964) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
-2. 💪 Opened PR [#19](undefined) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
-3. ❌ Merged PR [#55](undefined) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
-4. 🗣 Commented on [#59](https://github.com/trinhdaiphuc/GRPC-Chat/pull/59#issuecomment-3666083212) in [trinhdaiphuc/GRPC-Chat](https://github.com/trinhdaiphuc/GRPC-Chat)
-5. ❌ Merged PR [#13](undefined) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+1. ❌ Merged PR [#20](undefined) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+2. 🗣 Commented on [#20](https://github.com/beautifulvoice/livekit-meet/pull/20#issuecomment-3674560389) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+3. 💪 Opened PR [#20](undefined) in [beautifulvoice/livekit-meet](https://github.com/beautifulvoice/livekit-meet)
+4. ❌ Closed PR [#16](undefined) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
+5. ❌ Closed PR [#18](undefined) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
 <!--END_SECTION:activity-->
