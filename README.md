@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/trinhdaiphuc/Simple-React-caro/pull/22#issuecomment-4103036030) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
-2. 🗣 Commented on [#21](https://github.com/trinhdaiphuc/Simple-React-caro/pull/21#issuecomment-4061604925) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
-3. 🗣 Commented on [#33](https://github.com/trinhdaiphuc/Xml-digital-signature/pull/33#issuecomment-4003170977) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
-4. 🗣 Commented on [#32](https://github.com/trinhdaiphuc/Xml-digital-signature/pull/32#issuecomment-3990823331) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
-5. 🗣 Commented on [#20](https://github.com/trinhdaiphuc/Simple-React-caro/pull/20#issuecomment-3975731131) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
+1. 🗣 Commented on [#23](https://github.com/trinhdaiphuc/Simple-React-caro/pull/23#issuecomment-4130454835) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
+2. 🗣 Commented on [#22](https://github.com/trinhdaiphuc/Simple-React-caro/pull/22#issuecomment-4103036030) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
+3. 🗣 Commented on [#21](https://github.com/trinhdaiphuc/Simple-React-caro/pull/21#issuecomment-4061604925) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
+4. 🗣 Commented on [#33](https://github.com/trinhdaiphuc/Xml-digital-signature/pull/33#issuecomment-4003170977) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
+5. 🗣 Commented on [#32](https://github.com/trinhdaiphuc/Xml-digital-signature/pull/32#issuecomment-3990823331) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
 <!--END_SECTION:activity-->
