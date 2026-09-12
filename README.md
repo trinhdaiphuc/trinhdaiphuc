@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/trinhdaiphuc/Simple-React-caro/pull/26#issuecomment-4154282818) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
-2. 🗣 Commented on [#25](https://github.com/trinhdaiphuc/Simple-React-caro/pull/25#issuecomment-4150348937) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
-3. 🗣 Commented on [#35](https://github.com/trinhdaiphuc/Xml-digital-signature/pull/35#issuecomment-4150185919) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
-4. 🗣 Commented on [#34](https://github.com/trinhdaiphuc/Xml-digital-signature/pull/34#issuecomment-4149299574) in [trinhdaiphuc/Xml-digital-signature](https://github.com/trinhdaiphuc/Xml-digital-signature)
-5. 🗣 Commented on [#24](https://github.com/trinhdaiphuc/Simple-React-caro/pull/24#issuecomment-4149266019) in [trinhdaiphuc/Simple-React-caro](https://github.com/trinhdaiphuc/Simple-React-caro)
+1. 🎉 Merged PR [#2](https://github.com/trinhdaiphuc/go-kit/pull/2) in [trinhdaiphuc/go-kit](https://github.com/trinhdaiphuc/go-kit)
+2. 💪 Opened PR [#2](https://github.com/trinhdaiphuc/go-kit/pull/2) in [trinhdaiphuc/go-kit](https://github.com/trinhdaiphuc/go-kit)
+3. 🎉 Merged PR [#3](https://github.com/trinhdaiphuc/env_config/pull/3) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
+4. 🗣 Commented on [#3](https://github.com/trinhdaiphuc/env_config/pull/3#issuecomment-5630815834) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
+5. 💪 Opened PR [#3](https://github.com/trinhdaiphuc/env_config/pull/3) in [trinhdaiphuc/env_config](https://github.com/trinhdaiphuc/env_config)
 <!--END_SECTION:activity-->
